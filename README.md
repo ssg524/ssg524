@@ -1,4 +1,14 @@
-### Hi there 👋
+공부 중인 대학생입니다.
+<br></br>
+#### 🖋 배우는 중
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff">
+</div>
+
 
 <!--
 **ssg524/ssg524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
